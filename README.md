@@ -1,7 +1,7 @@
 # Implementing Similar Image Search Across Fashion Images Using CNN-Based Autoencoder
 
 ## 
-1. DATA folder: Contains 
+1. DATA folder: Our DATA folder does not include our dataset since we loaded our dataset directly from the Keras package. 
 2. SCRIPTS folder: Includes DS_PROJECT_3.ipynb, which holds all the source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images.
 3. OUTPUT folder: Contains plots generated during the initial exploratory data analysis (EDA) of the dataset.
 
@@ -9,7 +9,7 @@
 For the project, we used Python and the additional numpy, matplotlib, keras, scipy, and skimage libraries. Each of our group members used Mac platforms.
 
 ## Map of Documentation
-Our DATA folder does not include data since we loaded our dataset directly from the Keras package. In the SCRIPTS folder, there is DS_PROJECT_3.ipynb, which includes all of our source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset as well as from our similar image search task.
+Our DATA folder does not include our dataset since we loaded our dataset directly from the Keras package. In the SCRIPTS folder, there is DS_PROJECT_3.ipynb, which includes all of our source code for loading and preprocessing the data, building and training the CNN-based autoencoder, generating test image embeddings, and displaying similar test images. In the OUTPUT folder, there are plots that were produced from initial EDA of our dataset as well as from our similar image search task.
 
 
 ## Instructions for reproducing results
